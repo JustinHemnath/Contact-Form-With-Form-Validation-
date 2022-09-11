@@ -1,0 +1,15 @@
+// custom variables
+$primary: #ff5622;
+$secondary: #0e111a;
+$dark: #081229;
+$info: red;
+
+$form-floating-padding-y: 0.5rem;
+
+// bootstrap scss
+@import '~bootstrap/scss/bootstrap';
+
+body {
+  background-color: $dark;
+  height: 100vh;
+}
